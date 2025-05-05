@@ -86,7 +86,7 @@ Customer churn is a major challenge in the banking sector. Predicting churn help
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/churn-prediction.git
+   git clone https://github.com/ANIKET-crypto828/Random-Forest-Model
    cd churn-prediction
 2. Install Dependencies:
 pip install -r requirements.txt
